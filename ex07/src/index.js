@@ -1,4 +1,4 @@
-function main(numOne, numTwo){
+function main(){
     //Only change code below this line
     // Variable declarations
     var studlyCapVar;
